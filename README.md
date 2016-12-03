@@ -9,6 +9,7 @@ Meetup #8 sobre Fragments y Remixer
 ### Charlas :
 
 - Perú Apps 
+
   Richard Perez Fragments [Link](https://github.com/Android-Dev-Peru/meetup)
 
 - Ronald Velásquez  - Remixer [Link](https://github.com/Android-Dev-Peru/Meetup-8/tree/master/RemixerDemo)
